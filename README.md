@@ -9,9 +9,12 @@ Instagram aims to move beyond measuring platform success through usage time alon
 
 **Key challenges included:**
 
-  • Passive Feed and Reel consumption reducing engagement quality 
+    • Passive Feed and Reel consumption reducing engagement quality 
+	
 	• Difficulty identifying users at risk of dormancy before churn 
+	
 	• Limited visibility into the behavioral drivers of meaningful engagement 
+	
 	• Need to balance user engagement, retention, and platform monetization 
   
 This project builds interactive dashboards to identify high-value user behaviors, monitor platform health, and support data-driven product decisions.
@@ -24,12 +27,18 @@ https://public.tableau.com/app/profile/kanche.susmitha4144/viz/InstagramEngageme
 
 **Key Objectives**
 
-  • Analyze the behavioral drivers influencing Engagement Quality Efficiency (EQE) 
+    • Analyze the behavioral drivers influencing Engagement Quality Efficiency (EQE) 
+	
 	• Identify high-value user engagement patterns 
+	
 	• Detect Dormancy Risk Users for proactive retention 
+	
 	• Evaluate platform health using supporting engagement metrics 
+	
 	• Support product optimization through behavioral analytics 
+	
 	• Enable data-driven product and retention decisions 
+	
 
 **Key KPIs**
 
@@ -59,12 +68,18 @@ Measures the proportion of users showing early signs of disengagement.
 
 **Executive Summary**
 
-  • Average Engagement Quality Efficiency (EQE) = **1.47**
+    • Average Engagement Quality Efficiency (EQE) = **1.47**
+	
 	• Quick Feed Users achieved the highest EQE **(6.14)** 
+	
 	• Quick Reel Viewers achieved significantly higher EQE **(4.71)** than immersive Reel users 
+	
 	• Light Users recorded the highest engagement quality among session frequency groups **(2.74)**
+	
 	• Low Stress users demonstrated the highest EQE **(2.78)** 
+	
 	• **7.07%** of users were identified as Dormancy Risk Users 
+	
 	• Behavioral patterns showed a stronger relationship with engagement quality than prolonged platform usage 
 
   
