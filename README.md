@@ -68,17 +68,17 @@ Measures the proportion of users showing early signs of disengagement.
 
 **Executive Summary**
 
-    • Average Engagement Quality Efficiency (EQE) = **1.47**
+    • Average Engagement Quality Efficiency (EQE) = 1.47
 	
-	• Quick Feed Users achieved the highest EQE **(6.14)** 
+	• Quick Feed Users achieved the highest EQE (6.14)
 	
-	• Quick Reel Viewers achieved significantly higher EQE **(4.71)** than immersive Reel users 
+	• Quick Reel Viewers achieved significantly higher EQE (4.71) than immersive Reel users 
 	
-	• Light Users recorded the highest engagement quality among session frequency groups **(2.74)**
+	• Light Users recorded the highest engagement quality among session frequency groups (2.74)
 	
-	• Low Stress users demonstrated the highest EQE **(2.78)** 
+	• Low Stress users demonstrated the highest EQE (2.78)
 	
-	• **7.07%** of users were identified as Dormancy Risk Users 
+	• 7.07% of users were identified as Dormancy Risk Users 
 	
 	• Behavioral patterns showed a stronger relationship with engagement quality than prolonged platform usage 
 
