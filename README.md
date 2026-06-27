@@ -142,13 +142,21 @@ Comment-to-Like Ratio, DM Activity Index, Ad CTR Proxy, and Ad Load Proxy provid
 
 **Tools & Technologies**
 
-  • PostgreSQL (SQL) 
-	• Python 
+    • PostgreSQL (SQL) 
+	
+	• Python
+	
 	• Tableau 
+	
 	• Data Visualization 
+	
 	• Product Analytics 
+	
 	• KPI Design 
+	
 	• User Behavior Analytics 
+	
 	• Retention Analytics 
+	
 	• Product Analytics 
 	
