@@ -1,9 +1,10 @@
 **Instagram Engagement Quality & User Retention Analysis**
 
-**Project Overview**
+**Project Overview:**
 
 Instagram is shifting its product strategy from maximizing time spent to improving Engagement Quality. This project analyzes over 1.5 million user records to identify the behavioral factors influencing meaningful engagement, detect early Dormancy Risk Users, and provide data-driven recommendations that improve long-term user retention while maintaining platform health.
-Business Problem
+
+**Business Problem:**
 
 Instagram aims to move beyond measuring platform success through usage time alone and instead focus on Engagement Quality Efficiency (EQE) — the efficiency with which user attention is converted into meaningful interactions.
 
@@ -20,7 +21,7 @@ Instagram aims to move beyond measuring platform success through usage time alon
 This project builds interactive dashboards to identify high-value user behaviors, monitor platform health, and support data-driven product decisions.
 Dashboard
 
-**Tableau Public:**
+**Tableau Dashboard:**
 
 https://public.tableau.com/app/profile/kanche.susmitha4144/viz/InstagramEngagementQualityUserRetentionAnalysis_17825590319540/UserBehaviorRetentionInsights
 
@@ -151,9 +152,3 @@ Comment-to-Like Ratio, DM Activity Index, Ad CTR Proxy, and Ad Load Proxy provid
 	• Retention Analytics 
 	• Product Analytics 
 	
-
-📈 Tableau Dashboard
-🔗 https://public.tableau.com/app/profile/kanche.susmitha4144/viz/NL_Instagram_17702281275140/InstagramUserEngagement
-
-📁 Dataset
-Source: Instagram Usage Lifestyle Dataset — 1.5M users across demographics, platform behaviour and lifestyle metrics
